@@ -1,3 +1,0 @@
-/home/rickphil/Documents/C++/lambdas/build/CMakeFiles/rebuild_cache.dir
-/home/rickphil/Documents/C++/lambdas/build/CMakeFiles/edit_cache.dir
-/home/rickphil/Documents/C++/lambdas/build/CMakeFiles/lambdas.dir

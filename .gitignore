@@ -1,1 +1,5 @@
-build/CMakeCache.txt build/CMakeFiles build/cmake_install.cmake build/lambdas build/Makefile
+build/CMakeCache.txt 
+build/CMakeFiles 
+build/cmake_install.cmake 
+build/lambdas 
+build/Makefile

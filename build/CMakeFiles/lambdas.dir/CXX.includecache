@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rickphil/Documents/C++/lambdas/lambdas.cpp
+iostream
+-
+functional
+-
+vector
+-
+memory
+-
+algorithm
+-
+
